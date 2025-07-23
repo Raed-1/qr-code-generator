@@ -9,6 +9,9 @@ A simple and clean Python app to create QR codes.
 - Save the QR code as a PNG image
 - Dark and modern user interface
 
+### Download for Windows
+ [Download Windows Version ](https://github.com/Raed-1/qr-code-generator/releases/download/v1.0/Windows-App.zip)
+
 ## Requirements
 - Python 3.8+
 - Libraries:
